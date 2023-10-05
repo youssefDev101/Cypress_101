@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-6ufJcRo4t2L9SsYriH56fVxaQp99t",
+  "object": "chat.completion",
+  "created": 1678963204,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 76,
+    "completion_tokens": 48,
+    "total_tokens": 124
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "2. Versace Pour Homme\n3. Bvlgari Aqva Pour Homme\n4. Acqua di Gio by Giorgio Armani"
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}
